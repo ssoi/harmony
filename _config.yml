@@ -1,10 +1,10 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /harmony
+baseurl: /
 
 # Site live URL
-url: http://gayan.me
+url: http://127.0.0.1:4000
 
 # Localhost 
 # url: http://127.0.0.1:4000  
@@ -28,16 +28,12 @@ harmony:
     url: http://gayanvirajith.github.io
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key:
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
-    pinterest: 
+    github: ssoi
+    twitter: ssoi 
   # Toggle disclaimer in footer
   show_disclaimer: true
 
