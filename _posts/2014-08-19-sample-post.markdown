@@ -25,6 +25,11 @@ Duis lacinia commodo dui, vel aliquam metus hendrerit eu. Integer et scelerisque
 
 Example code: 
 
+{% highlight R %}
+x <- ppoints(100)*10
+y <- 3*x - 1 + rnorm(100)
+{% endhighlight %}
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"

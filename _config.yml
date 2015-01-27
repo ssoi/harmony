@@ -9,23 +9,20 @@ url: http://127.0.0.1:4000
 # Localhost 
 # url: http://127.0.0.1:4000  
 
-# Harmony theme configuration. Please change accordingly.
+# Personal webite
 harmony:
-  name: Harmony
+  name: Sameer Soi
   # Little description about your site
-  description: Harmony is free responsive jekyll theme.
+  description: A data scientist in Kings county.
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
-  meta_description: > # 
-   Harmony is a free responsive jekyll theme by Gayan Virajith
-   and Maheshika Lakmali. Sourced on Github - 
-   https://github.com/gayanvirajith/harmony
-  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+  meta_description: Sameer is a data scientist working on the future of personalized and patient-empowered medicine 
+  basetheme: blue-water # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: Sameer Soi
+    email: mail@sameersoi.com
+    url: http://www.sameersoi.com
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key:
@@ -33,8 +30,7 @@ harmony:
   # Profile links, leave blank to ignore
   social: 
     github: ssoi
-    twitter: ssoi 
-  # Toggle disclaimer in footer
+    twitter: sameersoi 
   show_disclaimer: true
 
 # Conversion / Build settings 
