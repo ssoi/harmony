@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /
+baseurl: 
 
 # S3 URL
 url: http://sameersoi.com.s3-website-us-east-1.amazonaws.com 
