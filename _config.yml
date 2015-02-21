@@ -3,8 +3,8 @@
 # Base URL
 baseurl: /
 
-# Site live URL
-url: http://127.0.0.1:4000
+# S3 URL
+url: http://sameersoi.com.s3-website-us-east-1.amazonaws.com 
 
 # Localhost 
 # url: http://127.0.0.1:4000  
