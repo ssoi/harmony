@@ -13,7 +13,7 @@ supervision of [Sarah Tishkoff][tishkoff] and [Junhyong Kim][kim]. For my disser
 applied a novel [Approximate Bayesian Computation][abc] approach to infer the history of African 
 populations from genome-wide SNP data. I also identified regions of the genome with different
 methylation patterns in sub-Saharan Africans practicing diverse subsistence strategies.
-You can find all my publications on [Google Scholar][scholar].
+All my publications can be found on [Google Scholar][scholar].
 
 I currently live in [Brooklyn][rambo] with my beautiful wife [Sonali][tyler]. 
 I can be found milling about on [Twitter][twitter]/[Google+][google]/[Github][github].
