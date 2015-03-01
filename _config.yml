@@ -4,7 +4,7 @@
 baseurl: 
 
 # S3 URL
-url: http://sameersoi.com.s3-website-us-east-1.amazonaws.com 
+url: http://sameersoi.com
 
 # Localhost 
 #url: http://127.0.0.1:4000  
