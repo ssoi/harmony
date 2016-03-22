@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-
+![Photo]({{site.url}}/assets/sameer.jpg)
 Hi, I am [Sameer Soi][www], data scientist at [Betterpath][bp], a company dedicated to helping
 patients collect and engage with their medical records and ultimately navigate their chronic
 conditions.
