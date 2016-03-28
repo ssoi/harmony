@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Gentrification in NYC: Property, prices and Postgres (part 1)"
+description: Identifying gentrification trends in NYC property sales data
+categories:
+- blog
+---
+
+Living in Downtown Brooklyn (and in NYC in general), gentrification is an ever-present force.
+As ever, the New York times is on the [case](http://www.nytimes.com/2015/09/20/realestate/the-south-bronx-beckons.html)
+([again](http://www.nytimes.com/2016/03/07/nyregion/in-sunset-park-a-call-for-innovation-leads-to-fears-of-gentrification.html) 
+and [again](http://www.nytimes.com/2015/10/25/nyregion/in-chelsea-a-great-wealth-divide.html)).
+
+
+```{r regression}
+library(dplyr, quiet=TRUE, warn=FALSE)
+library(lazyeval, quiet=TRUE, warn=FALSE)
+
+prices_tbl <- tbl(src=src_postgres(dbname="gentrify", user="betterpath"), "prices")
+```
