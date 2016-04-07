@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 ![Photo]({{site.url}}/assets/sameer.jpg)
-Hi, I am [Sameer Soi][www], data scientist at [Betterpath][bp], a company dedicated to helping
-patients collect and engage with their medical records and ultimately navigate their chronic
-conditions.
+Hi, I am [Sameer Soi][www], a data scientist at [Driver][driver] a company developing
+therapeutic breakthroughs for cancer.
+
+I formerly worked as data scientist at [Betterpath][bp], a company dedicated to helping
+patients with rare diseases collect their medical records and navigate their clinical histories
+while simultaneously generating research quality data for foundations and pharamceuticals.
 
 I obtained my PhD in [Computational Biology][gcb] at the University of Pennsylvania under the
 supervision of [Sarah Tishkoff][tishkoff] and [Junhyong Kim][kim]. For my dissertation work I
@@ -20,6 +23,7 @@ I can be found milling about on [Twitter][twitter]/[Google+][google]/[Github][gi
 
 [www]: http://sameersoi.com
 [bp]: http://www.betterpath.com
+[driver]: http://drivergrp.com
 [gcb]: http://www.med.upenn.edu/gcb/index.shtml
 [tishkoff]: http://www.med.upenn.edu/tishkoff/Lab/Tishkoff/Tishkoff.html
 [kim]: http://kim.bio.upenn.edu/

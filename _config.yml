@@ -4,10 +4,10 @@
 baseurl: 
 
 # S3 URL
-#url: http://sameersoi.com
+url: http://sameersoi.com
 
 # Localhost 
-url: http://127.0.0.1:4000  
+#url: http://127.0.0.1:4000
 
 # Personal webite
 harmony:
